@@ -1,5 +1,5 @@
 <?php
-    namespace Ssynhtn\Hello;
+    namespace Hello;
 
 	function hello() {
 		echo "just hello";
