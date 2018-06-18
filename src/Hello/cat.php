@@ -6,7 +6,7 @@
  * Date: 2018/6/18
  * Time: 12:42
  */
-namespace Hello;
+namespace Ssynhtn\Hello;
 
 class Cat {
     function meow() {
