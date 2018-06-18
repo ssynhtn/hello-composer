@@ -12,4 +12,9 @@ class Dog {
     function bark() {
         echo "dog barking";
     }
+
+    public function __toString()
+    {
+        return "a good boy";
+    }
 }
