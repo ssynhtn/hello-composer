@@ -1,0 +1,14 @@
+{
+    "name": "ssynhtn/hello-composer",
+    "description": "Test composer library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ssynhtn",
+            "email": "huangtongnao@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
